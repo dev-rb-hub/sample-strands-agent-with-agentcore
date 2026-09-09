@@ -11,7 +11,7 @@ strands-agents-tools[a2a_client]>=0.8.8
 mcp>=1.28.1,<2.0.0
 
 # OpenAI SDK - required for Bedrock Runtime/Mantle Responses models
-openai>=2.49.0
+openai>=3.8.0
 
 # Voice Chat (BidiAgent)
 aws-sdk-bedrock-runtime  # Required by strands BidiNovaSonicModel
